@@ -1,0 +1,102 @@
+.container{
+text-align: center;
+border-block: border-box;
+background-color: #ded9d9;
+padding:20px;
+border-radius: 30px;
+}
+
+.Heading{
+  color: green;
+  font-weight: 20;
+}
+
+.all_headings{
+  text-align: left;  
+  
+}
+
+.First_sizes{
+  width: 95%;
+  height: 25px;
+}
+
+.self_box{
+  width:95%;
+  height: 125px; 
+  
+}
+
+.self_box::placeholder{
+  position: absolute;
+  top: 10px;
+  left: 10px;
+  
+}
+
+.buttons{
+  display:flex;
+  justify-content: center;
+}
+
+.reset{
+  width: 150px; 
+  height: 30px; 
+  font-size: 15px;
+  margin-right: 40px;
+  background:darkgray;
+}
+
+.submit{
+  width: 150px; 
+  height: 30px; 
+  font-size: 15px;
+  background: darkgray;
+}
+
+.url{
+  width: 95%;
+  height: 25px;
+}
+
+.male{
+  margin-right:20px;
+}
+
+.female{
+  margin-right: 20px;
+}
+
+.english{
+  margin-right: 20px;
+}
+
+.maths{
+  margin-right: 20px;
+}
+
+.male_check{
+  margin-right: 10px;
+}
+
+.female_check{
+  margin-right: 10px;
+}
+
+.other_check{
+  margin-right: 10px;
+}
+
+.english_check{
+  margin-right: 10px;
+}
+
+.maths_check{
+  margin-right: 10px;
+}
+
+.physics_check{
+  margin-right: 10px;
+}
+
+
